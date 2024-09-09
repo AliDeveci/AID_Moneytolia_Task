@@ -1,4 +1,4 @@
-# SauceDemo Task - Hybrid (BDD and DDT) Framework With Cucumber
+# AutomationExercise Task - Hybrid (BDD and DDT) Framework With Cucumber
 
 ### Codes And Tests Prepared By :
 Ali Ihsan Deveci

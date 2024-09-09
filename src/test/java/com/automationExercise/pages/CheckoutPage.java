@@ -10,8 +10,7 @@ import org.openqa.selenium.support.FindBy;
 import java.util.List;
 
 public class CheckoutPage extends BasePage {
-    //ul[@id='address_delivery']/li --> your delivery address
-    //ul[@id='address_invoice']/li  -- billing address
+
     @FindBy(xpath = "//ul[@id='address_delivery']/li")
     public List<WebElement> deliveryAddress;
     @FindBy(xpath = "//ul[@id='address_invoice']/li")
